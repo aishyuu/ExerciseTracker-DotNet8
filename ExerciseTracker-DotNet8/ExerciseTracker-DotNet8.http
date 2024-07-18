@@ -1,0 +1,6 @@
+@ExerciseTracker_DotNet8_HostAddress = http://localhost:5247
+
+GET {{ExerciseTracker_DotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
